@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Zomi
-- 🌱 I’m currently learning front-end programming languages 
--     HTML, CSS and JavaScript
+- 🌱 I’m currently learning front-end technologies HTML, CSS and JavaScript
 
 <!---
 nzm23/nzm23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
